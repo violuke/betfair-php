@@ -1,11 +1,10 @@
 {
     "minimum-stability": "dev",
 
-    "name"       : "erlangb/betfair",
+    "name"       : "violuke/betfair",
     "type"       : "library",
     "description": "Betfair API PHP 5.4+ library",
     "keywords"   : ["Betfair", "API", "betting api", "betting", "bet"],
-    "homepage"   : "http://www.danieledangeli.com",
     "license"    : "MIT",
 
     "authors": [
@@ -14,6 +13,10 @@
             "email"   : "dangeli88.daniele@gmail.com",
             "homepage": "http://www.danieledangeli.com",
             "role"    : "Engineer"
+        },
+        {
+            "name"    : "Luke Cousins",
+            "email"   : "luke@cou.si"
         }
     ],
 
