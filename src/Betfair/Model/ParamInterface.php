@@ -14,10 +14,10 @@ interface ParamInterface
     public function jsonSerialize();
 
     /**
-     * @param MarketProjection $marketProjection
+     * @param array $marketProjection
      * @return $this
      */
-    public function setMarketProjection(MarketProjection $marketProjection);
+    public function setMarketProjection(array $marketProjection);
 
     /**
      * @param $maxResult
